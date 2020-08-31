@@ -2,19 +2,26 @@
 
 # Frontend
 
-This project was generated with Angular CLI version 9.1.0.
+Este projeto foi gerado com Angular.
 
-Development server
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+É resultado do curso de front-End do Cod3r para introdução ao Angular.
 
-Code scaffolding
-Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
+Seviço de desenvolvimento (Development server)
+Execute = (ng serve for a dev server). Para navegar em http://localhost:4200/.
+Esta funcionalidade faz o aplicativo ser recarregado automaticamente a  cada alteração qualquer um dos arquivos de origem.
 
-Build
-Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+Estrutura de código (Code scaffolding)
+Execute = (ng generate component component-name) para gerar um novo componente.
+Você também pode usar (ng generate
+directive|pipe|service|class|guard|interface|enum|module).
 
-Running unit tests
-Run ng test to execute the unit tests via Karma.
+Construção (Build)
+Execute = (ng build) Para construir o proeto. Os artefatos de construção serão armazenados no (dist/ directory). Use o sinalizador (--prod) para uma construção do produto.
 
-Running end-to-end tests
-Run ng e2e to execute the end-to-end tests via Protractor.
+Executando testes unitários (Running unit tests)
+Execute = (ng test) para executar os testes de unidade via Karma.
+
+Execução de testes de ponta a ponta (Running end-to-end tests)
+Execute = (ng e2e) para executar os testes ponta a ponta por meio do Transferidor.
+
+
